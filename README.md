@@ -1,6 +1,4 @@
-Certainly! Here's a well-structured and formatted README for your project, **CurioCart E-Commerce Application Using Java Modified**, which utilizes Java and MySQL to create an online shopping platform.
 
----
 
 # 🛒 CurioCart E-Commerce Application Using Java
 
@@ -80,5 +78,3 @@ Compile and run the `Main.java` file to launch the application.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize this README further to better fit your project's specifics.
